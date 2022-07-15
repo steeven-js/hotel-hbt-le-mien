@@ -60,7 +60,11 @@ body {
     height: 800px;
 }
 
-#contact  .contact-content-1 {
+#contact {
+    overflow-x: hidden;
+}
+
+#contact .contact-content-1 {
     align-items: center;
 }
 
