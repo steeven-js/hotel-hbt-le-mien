@@ -60,12 +60,18 @@ body {
     height: 800px;
 }
 
-#contact {
-    overflow-x: hidden;
+#contact form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
 }
 
 #contact .contact-content-1 {
-    align-items: center;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 /* #contact form {
