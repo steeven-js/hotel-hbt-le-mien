@@ -68,9 +68,9 @@ body {
     align-items: center;
 }
 
-#contact form {
+/* #contact form {
     align-items: center;
-}
+} */
 
 #contact input, #contact textarea {
     width: 40%;
