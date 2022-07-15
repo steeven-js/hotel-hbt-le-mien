@@ -399,7 +399,7 @@ footer .ftr-content p {
 #contact button {
     border: none;
     margin-bottom: 40px;
-
+    cursor: pointer;
     text-align: center;
     font-size: 1.2rem;
     display: block;
